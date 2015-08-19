@@ -2,7 +2,7 @@
 int main()
 {
 int a,b;
-cout<<"Hello, World!"<<endl;
+cout<<"Hello, World! \n This is my first time using github!! "<<endl;
 cout<<"Enter number 1:"<<endl;
 cin>> a;
 cout<<"Enter number 2:"<<endl;
